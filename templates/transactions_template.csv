@@ -1,0 +1,4 @@
+date,kind,amount,from_account_id,to_account_id,category,income_source,memo
+2026-02-01,income,30000.00,,1,,Main Salary,Payroll credit
+2026-02-03,expense,2000.00,1,,Rent,,February rent
+2026-02-04,expense,500.00,1,,Dining,,Lunch

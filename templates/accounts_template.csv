@@ -1,0 +1,4 @@
+name,account_type,is_liquid,opening_balance,currency
+Example Bank,bank,true,0.00,PHP
+Example Wallet,digital_wallet,true,0.00,PHP
+Emergency Fund,savings,true,10000.00,PHP
